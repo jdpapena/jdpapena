@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hey, it's me, jdpapena!
 
-<!--
-**jdpapena/jdpapena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineer (UP Diliman, GWA: 1.721) → self-taught developer.
 
-Here are some ideas to get you started:
+I'm building my way into software and AI - one project at a time. This GitHub is where I document my journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently studying Power BI and Tableau with Python.
+
+---
+## PROJECT
+
+* [Automatic Fish Feeder](https://github.com/jdpapena/automatic-fish-feeder) - Arduino + CAD + Git
+
+---
+
+## TOOLS 
+
+* Python (pandas, numpy)
+* HTML/CSS, JavaScript, React
+* SQL
+* Git
+* C (Arduino)
+* Power BI (learning)
+
+---
+## CONTACT ME
+
+**Email:** jdpapena@up.edu.ph
